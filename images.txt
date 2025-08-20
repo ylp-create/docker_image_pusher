@@ -1,4 +1,3 @@
-helm:v3.8.2
-kubernetes-docker:v1.25.16
-calico:v3.26.1
+dashboard:v2.4.0
+metrics-scraper:v1.0.7
 
