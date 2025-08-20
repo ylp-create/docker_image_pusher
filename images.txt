@@ -1,2 +1,2 @@
-nginx-ingress-controller:v1.8.1
+registry.k8s.io/ingress-nginx/controller:v1.9.4
 
